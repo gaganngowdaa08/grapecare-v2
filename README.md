@@ -61,3 +61,5 @@ Start Command: gunicorn app:app
 Gagan Gowda BG LinkedIn - https://www.linkedin.com/in/gagan-gowda-b-g-1b63a22b4/
 
 GitHub - https://github.com/gaganngowdaa08
+
+Deployed model - https://huggingface.co/spaces/gagangowda08/grape
